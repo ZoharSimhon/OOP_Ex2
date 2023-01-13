@@ -167,7 +167,7 @@ This is because the runtime of the methods which using threads depend on the sys
 
 
 ## UML
-## ![img.png](img.png)
+## ![img.png](img.png)![img.png](img.png)
 
 
 ## Download & run the program
@@ -292,6 +292,6 @@ In this class we make sure that the methods which we have created are doing well
 5. Finally, you can run the main or the test class.
 
 ## UML
-## ![img_1.png](img_1.png)
+## ![img_2.png](img_2.png)
 
 
