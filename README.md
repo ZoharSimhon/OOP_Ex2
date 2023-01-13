@@ -167,7 +167,7 @@ This is because the runtime of the methods which using threads depend on the sys
 
 
 ## UML
-## ![img.png](img.png)![img.png](img.png)
+## ![img.png](img.png)
 
 
 ## Download & run the program
